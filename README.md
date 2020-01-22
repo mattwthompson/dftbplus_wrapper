@@ -1,10 +1,10 @@
 dftbplus_wrapper
 ==============================
 [//]: # (Badges)
-[![Travis Build Status](https://travis-ci.com/REPLACE_WITH_OWNER_ACCOUNT/dftbplus_wrapper.svg?branch=master)](https://travis-ci.com/REPLACE_WITH_OWNER_ACCOUNT/dftbplus_wrapper)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/dftbplus_wrapper/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/dftbplus_wrapper/branch/master)
+[![Travis Build Status](https://travis-ci.com/mattwthompson/dftbplus_wrapper.svg?branch=master)](https://travis-ci.com/mattwthompson/dftbplus_wrapper)
+[![codecov](https://codecov.io/gh/mattwthompson/dftbplus_wrapper/branch/master/graph/badge.svg)](https://codecov.io/gh/mattwthompson/dftbplus_wrapper/branch/master)
 
-A short description of the project.
+Experiments in running DFTB+ from Python
 
 ### Copyright
 
